@@ -1,0 +1,45 @@
+header {
+  background-color: #141414;
+}
+body {
+  background-color: #141414;
+}
+.netflix-nav {
+  background-color: #141414;
+}
+.logo-netflix{
+  height: 45px;        /* più grande ma elegante */
+  width: auto;
+  display: block;
+}
+.avatar-netflix{
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+/* Icone navbar destra */
+.nav-icon {
+  color: #ffffff;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+/* Hover icone */
+.nav-icon:hover {
+  color: #e5e5e5;
+}
+
+/* Testo BAMBINI */
+.kids-label {
+  color: #ffffff;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.kids-label:hover {
+  color: #e5e5e5;
+}
+
+
+
